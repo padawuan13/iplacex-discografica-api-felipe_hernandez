@@ -1,2 +1,2 @@
 # iplacex-discografica-api-felipe_hernandez
-proyecto API REST para examen final Programacion Web Service
+API REST Spring para administración de discografías favoritas de empleados de IPLACEX
